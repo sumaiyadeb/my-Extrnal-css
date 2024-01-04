@@ -1,0 +1,27 @@
+h1{
+    color: darkred;
+    font-size: larger;
+    text-decoration: underline;
+    text-align: center;
+}
+.vlog{
+
+    height: 300px;
+    width: 400px;
+    margin: 50px;
+    border: 20px solid rgb(8, 0, 255);
+    padding: 10px;
+    box-shadow: 10px 10px 10px darkmagenta;
+}
+.amet{
+    border: 1px solid yellowgreen;
+
+}
+.header{
+   background-color: cornflowerblue;
+    
+
+}
+.sit{
+    text-align: center;
+}
